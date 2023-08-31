@@ -17,7 +17,7 @@ vida estudiantil y profesional
 
 
 # IT San Pedro Contest
-![itsncontest](://github.com/IGerardoJR/Reconocimientos-Diplomas/blob/main/certsnp.png)
+![itsncontest](https://github.com/IGerardoJR/Reconocimientos-Diplomas/blob/main/certsnp.png)
 # ICPC
 ![icpc](https://github.com/IGerardoJR/Reconocimientos-Diplomas/blob/main/certicpc.png)
 
